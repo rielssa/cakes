@@ -164,16 +164,6 @@ Unit tests telah disediakan untuk beberapa fungsi dalam proyek ini. Untuk menjal
 go test ./...
 ```
 
-## Kontribusi
-
-Jika Anda ingin berkontribusi pada proyek ini, silakan ikuti langkah-langkah berikut:
-
-1. Fork repositori ini.
-2. Buat branch fitur baru (`git checkout -b my-feature`).
-3. Commit perubahan Anda (`git commit -am 'Add new feature'`).
-4. Push ke branch yang Anda telah buat (`git push origin my-feature`).
-5. Buat permintaan tarik (pull request) baru.
-
 ## Lisensi
 
 Proyek ini menggunakan lisensi [MIT](LICENSE).
